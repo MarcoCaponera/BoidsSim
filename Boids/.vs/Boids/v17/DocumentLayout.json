@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Marco\\Desktop\\Desketoppe\\AIV\\PRIMO ANNO\\Boids\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72022A-D39F-4CD9-8366-B4E6D52EFD51}|Boids\\Boids.csproj|G:\\Marco\\Desktop\\Desketoppe\\AIV\\PRIMO ANNO\\Boids\\boids\\unitmngr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72022A-D39F-4CD9-8366-B4E6D52EFD51}|Boids\\Boids.csproj|solutionrelative:boids\\unitmngr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72022A-D39F-4CD9-8366-B4E6D52EFD51}|Boids\\Boids.csproj|g:\\marco\\desktop\\desketoppe\\aiv\\primo anno\\boids\\boids\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72022A-D39F-4CD9-8366-B4E6D52EFD51}|Boids\\Boids.csproj|solutionrelative:boids\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "G:\\Marco\\Desktop\\Desketoppe\\AIV\\PRIMO ANNO\\Boids\\Boids\\Unit.cs",
+              "RelativeDocumentMoniker": "Boids\\Unit.cs",
+              "ToolTip": "G:\\Marco\\Desktop\\Desketoppe\\AIV\\PRIMO ANNO\\Boids\\Boids\\Unit.cs",
+              "RelativeToolTip": "Boids\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:59:42.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitMngr.cs",
+              "DocumentMoniker": "G:\\Marco\\Desktop\\Desketoppe\\AIV\\PRIMO ANNO\\Boids\\Boids\\UnitMngr.cs",
+              "RelativeDocumentMoniker": "Boids\\UnitMngr.cs",
+              "ToolTip": "G:\\Marco\\Desktop\\Desketoppe\\AIV\\PRIMO ANNO\\Boids\\Boids\\UnitMngr.cs",
+              "RelativeToolTip": "Boids\\UnitMngr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:59:42.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

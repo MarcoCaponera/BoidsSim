@@ -1,0 +1,49 @@
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\Boids.exe.config
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\Boids.exe
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\Boids.pdb
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\aiv-fast2d.dll
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\OpenTK.dll
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\OpenTK.pdb
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\OpenTK.xml
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\obj\Debug\Boids.csproj.AssemblyReference.cache
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\obj\Debug\Boids.csproj.CopyComplete
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\obj\Debug\Boids.exe
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\obj\Debug\Boids.pdb
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\Assets\boid.png
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\Assets\ball.png
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\Assets\loadingBar_bar.png
+D:\marco\Desktop\AIV programmazione\programmi\esercizi\Boids\Boids\bin\Debug\Assets\loadingBar_frame.png
+D:\Marco\Desktop\Boids\Boids\bin\Debug\Assets\ball.png
+D:\Marco\Desktop\Boids\Boids\bin\Debug\Assets\boid.png
+D:\Marco\Desktop\Boids\Boids\bin\Debug\Assets\loadingBar_bar.png
+D:\Marco\Desktop\Boids\Boids\bin\Debug\Assets\loadingBar_frame.png
+D:\Marco\Desktop\Boids\Boids\bin\Debug\Boids.exe.config
+D:\Marco\Desktop\Boids\Boids\bin\Debug\Boids.exe
+D:\Marco\Desktop\Boids\Boids\bin\Debug\Boids.pdb
+D:\Marco\Desktop\Boids\Boids\bin\Debug\aiv-fast2d.dll
+D:\Marco\Desktop\Boids\Boids\bin\Debug\OpenTK.dll
+D:\Marco\Desktop\Boids\Boids\bin\Debug\OpenTK.pdb
+D:\Marco\Desktop\Boids\Boids\bin\Debug\OpenTK.xml
+D:\Marco\Desktop\Boids\Boids\obj\Debug\Boids.csproj.AssemblyReference.cache
+D:\Marco\Desktop\Boids\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+D:\Marco\Desktop\Boids\Boids\obj\Debug\Boids.csproj.CopyComplete
+D:\Marco\Desktop\Boids\Boids\obj\Debug\Boids.exe
+D:\Marco\Desktop\Boids\Boids\obj\Debug\Boids.pdb
+D:\Marco\Desktop\Boids\Boids\obj\Debug\Boids.csproj.SuggestedBindingRedirects.cache
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\Assets\ball.png
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\Assets\boid.png
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\Assets\loadingBar_bar.png
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\Assets\loadingBar_frame.png
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\Boids.exe.config
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\Boids.exe
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\Boids.pdb
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\aiv-fast2d.dll
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\OpenTK.dll
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\OpenTK.pdb
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\bin\Debug\OpenTK.xml
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\obj\Debug\Boids.csproj.AssemblyReference.cache
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\obj\Debug\Boids.csproj.Up2Date
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\obj\Debug\Boids.exe
+G:\Marco\Desktop\Desketoppe\AIV\PRIMO ANNO\Boids\Boids\obj\Debug\Boids.pdb
